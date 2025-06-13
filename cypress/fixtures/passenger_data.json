@@ -1,11 +1,11 @@
 {
   "TRAIN_NO": "20846",
-  "TRAIN_COACH": "2A",
-  "TRAVEL_DATE": "15/06/2025",
+  "TRAIN_COACH": "1A",
+  "TRAVEL_DATE": "24/06/2025",
   "SOURCE_STATION": "BKN",
   "BOARDING_STATION": "BPL",
   "DESTINATION_STATION": "R",
-  "TATKAL": true,
+  "TATKAL": false,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "horaaaryavansh2004@okaxis",
   "PASSENGER_DETAILS": [
